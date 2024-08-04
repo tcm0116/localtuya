@@ -1,14 +1,14 @@
 {
   "domain": "localtuya",
-  "name": "LocalTuya integration",
+  "name": "LocalTuya integration (tcm0116)",
   "codeowners": [
     "@rospogrigio", "@postlund"
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/rospogrigio/localtuya/",
+  "documentation": "https://github.com/tcm0116/localtuya/",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/rospogrigio/localtuya/issues",
+  "issue_tracker": "https://github.com/tcm0116/localtuya/issues",
   "requirements": [],
   "version": "5.2.1"
 }
